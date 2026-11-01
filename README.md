@@ -5,7 +5,7 @@ Atividade Prática Aula 1 — Aplicações em Data Science (UNICAMP) — prof. F
 Sistema de cadastro de pacientes para a recepção de um consultório médico, implementado duas vezes
 para comparar as bibliotecas **Gradio** (execução local) e **Streamlit** (publicado no Streamlit Community Cloud).
 
-**App publicado:** https://SEU-APP.streamlit.app  ← substituir pelo link gerado no deploy
+**App publicado:** https://cadastro-pacientes-awo.streamlit.app/
 
 ## Estrutura
 
