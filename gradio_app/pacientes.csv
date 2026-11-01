@@ -1,0 +1,9 @@
+timestamp,nome,idade,convenio,prioridade,motivo
+2026-11-01 15:17:57,Maria da Silva,34,Unimed,2,Consulta de rotina / check-up anual
+2026-11-01 15:17:58,João Pereira,67,Particular,4,Dor no peito ao subir escadas
+2026-11-01 15:18:00,Ana Costa,8,Bradesco Saúde,3,"Febre há 2 dias, acompanhada da mãe"
+2026-11-01 15:18:02,Carlos Mendes,45,SulAmérica,1,Retorno com resultado de exames
+2026-11-01 15:18:03,Beatriz Lima,29,Outro,5,"Reação alérgica, inchaço no rosto"
+2026-11-01 15:18:05,Roberto Alves,52,Unimed,2,Renovação de receita de pressão
+2026-11-01 15:18:10,Fernanda Rocha,41,Particular,3,Enxaqueca recorrente
+2026-11-01 15:36:30,Alex William,53,Particular,1,Rotina
